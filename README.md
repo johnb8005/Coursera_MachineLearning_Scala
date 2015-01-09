@@ -1,4 +1,4 @@
-# Coursera_MachineLearning_Scala
+# Coursera Machine Learning Scala
 Small Machine Learning Library in Scala + exercises of the Coursera Machine Learning Course solved in Scala
 
 The purpose of this repository is twofold:
